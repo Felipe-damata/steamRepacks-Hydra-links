@@ -1,13 +1,13 @@
 {
-    "name": "steamRepacks",
-    "downloads": [
-        {
-            "title": "Enter the gungeon",
-            "uploadDate": "2025-06-20T01:54:55+00:00",
-            "fileSize": "262 MB",
-            "uris": [
-                "https://gofile.io/d/9DAl0m"
-            ]
-        },
-    ]
+  "name": "steamRepacks",
+  "games": [
+    {
+      "title": "Enter the Gungeon",
+      "uploadDate": "2025-06-20T01:54:55+00:00",
+      "fileSize": "262 MB",
+      "uris": [
+        "https://gofile.io/d/9DAl0m"
+      ]
+    }
+  ]
 }
